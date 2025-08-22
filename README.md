@@ -1,4 +1,4 @@
-Here I am submitting a total of 8 jupyter notebooks—each file named according to what is done in it. I am explaining them. 
+Here, I uploaded a total of 8 jupyter notebooks—each file named according to what is done in it. I am explaining them. 
 
 initial-eda-preprocessing-and-base-line-models: 
 In this notebook, I did exploratory data analysis. I checked the baseline model prediction before preprocessing the dataset. Then data preprocessing was done. Again, the prediction of the baseline model was checked. In this case, the prediction was better than the previous prediction.
